@@ -1,0 +1,1 @@
+# TODO: monitor folders for updates or new files and update vectorstore
