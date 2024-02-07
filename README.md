@@ -13,11 +13,11 @@ You can easily switch from the OpenAI API to any LLM model and run your applicat
 
 - [x] Build Mantainable Vector Database
 - [x] Question Answering
-- [] Document Summarization
-- [] Multi-turn Conversation
-- [] Remove Unused Sources
-- [] Release Code
-- [] Release Installation Instrctions
+- [ ] Document Summarization
+- [ ] Multi-turn Conversation
+- [ ] Remove Unused Sources
+- [ ] Release Code
+- [ ] Release Installation Instrctions
 
 
 ## Demo
